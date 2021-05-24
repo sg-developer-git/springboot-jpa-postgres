@@ -1,2 +1,5 @@
 /codebase/.project
 /codebase/.settings
+/codebase/.classpath
+/codebase/.factorypath
+/codebase/target
